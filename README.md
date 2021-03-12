@@ -1,6 +1,6 @@
 ### Welcome / Bienvenue in my HUB.
 
-- 🔭 I’m currently working on a company that will offer cloud services to small enterprises. The company model is starting off with booting up the site for the company and progressively enhance their site's functionality. Increase ROI for small companies instead of just offering a one time site.
+- 🔭 I’m currently working on a company that will offer cloud services to small enterprises. The company model is starting off with booting up the site for the company and progressively enhance their site's functionality. This will allow for a greater ROI for our clients than if they opted for a simple static website.
 - ⚡ Finishing my bachelor in software engineering @etsmtl, it's a great university in Montreal.
 - 📫 vincentaudette@audla.ca is the best place to ping me.
 
